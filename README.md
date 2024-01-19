@@ -1,2 +1,3 @@
-# merge-conflicts
-How to resolve the merge conflicts
+Hello
+my name is:
+My city is:
